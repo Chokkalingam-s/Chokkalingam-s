@@ -76,6 +76,7 @@
 <h2 align="left">Coding</h2>
 
 
-<h6 align="left">Profile: https://www.skillrack.com/faces/resume.xhtml?id=405438&key=8ed1c401085148da202abf301e48d56ed6ff9646</h6>
+<h6 align="left">SkillRack Resume: https://www.skillrack.com/faces/resume.xhtml?id=405438&key=8ed1c401085148da202abf301e48d56ed6ff9646 </h6>
+<h6 align="left">LeetCode Profile: leetcode.com/Chokkalingam_S/ </h6>
 
 ---
