@@ -9,7 +9,11 @@
 <p align="left">🌱 I’m currently doing <b>B.Tech Information Technology<b> at Chennai<br><br>📫 How to reach me : www.linkedin.com/in/chokkalingam2005
 
 
-
+<div align="center">
+ 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KamranAbdullaev&theme=Javascript-dark&border_radius=10)](https://git.io/streak-stats)
+ 
+</div>
 <h2 align="left">I code with</h2>
 
 ---
