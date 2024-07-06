@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="left">A passionate Fullstack & App Developer 💻</h3>
+<h3 align="left">A passionate Fullstack Web & App Developer 💻</h3>
 
 ---
 
